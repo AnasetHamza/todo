@@ -1,8 +1,9 @@
 
 
-# TODOLIST
+# Todo-List(StageNodejs)
 
-
+Todo-List inspirée d'OpenClassRoom.com
+(En Attendant le TimeTracker...)
 
 ## Usage
 
